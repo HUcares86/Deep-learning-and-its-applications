@@ -1,0 +1,12 @@
+程式碼檔案名稱說明：
+2ndModel_attention_training:原作者＋新feature + 新model(attention)
+add_nn_model: 原作者＋新feature + 新model(NN)
+add_LSTM_model: 原作者＋新feature + 新model(LSTM)
+main4_add＿model: 原作者＋新feature + 新model(LGB)
+main4_add: 原作者＋新feature
+main4_old: 原作者
+
+add_model_data_process: 對有add＿model的結果進行數據分析
+old_add_data_process: 對有沒有add＿model的結果進行數據分析
+
+preprocess： 是做 training 跟 testing 的切割與他們的資料處理
